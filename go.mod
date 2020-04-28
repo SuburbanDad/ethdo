@@ -35,3 +35,5 @@ require (
 	google.golang.org/grpc v1.28.1
 	gopkg.in/ini.v1 v1.55.0 // indirect
 )
+
+replace github.com/wealdtech/go-eth2-types => github.com/SuburbanDad/go-eth2-types v1.0.0
